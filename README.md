@@ -11,5 +11,7 @@
 7. 直方图均衡化
 
 完成上述功能的函数定义在头文件processing.h中，在function.cpp中实现。
+
 mat.h定义了表示bmp格式图像的类，mat.cpp实现了类的成员函数。
+
 rwmat.h和rwmat.cpp分别声明和实现了bmp图像的读写功能。
